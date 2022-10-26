@@ -6,7 +6,7 @@ public class Cometarios {
 
     /**
      * 
-     * Com 2 asteriscos (*) no começo, o comentário se torna uma documentação do método
+     * Com 2 asteriscos (*) no começo, o comentário se torna uma documentação
      */
 
      public void metodo() {
