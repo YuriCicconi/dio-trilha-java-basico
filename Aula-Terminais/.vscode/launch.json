@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AulaScanner",
+            "request": "launch",
+            "mainClass": "AulaScanner",
+            "projectName": "Aula-Terminais_920698ff"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
